@@ -1,0 +1,34 @@
+{
+  "name": "vision",
+  "description": "http / https framework.",
+  "version": "0.0.1",
+  "author": {
+    "name": "Kaija Chang",
+    "email": "kaija.chang@gmail.com"
+  },
+  "contributors": [
+    {
+      "name": "Kaija Chang",
+      "email": "kaija.chang@gmail.com"
+    }
+  ],
+  "dependencies": {
+    "dotenv": "*",
+    "express": "*",
+    "ejs": "*",
+    "body-parser": "*",
+    "method-override": "*",
+    "nano": "*",
+    "winston": "*",
+    "passport-http": "*",
+    "passport": "*"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/kaija/vision"
+  },
+  "main": "index",
+  "engines": {
+    "node": "*"
+  }
+}
