@@ -18,10 +18,13 @@
     "ejs": "*",
     "body-parser": "*",
     "method-override": "*",
-    "nano": "*",
+    "mysql": "*",
     "winston": "*",
     "passport-http": "*",
-    "passport": "*"
+    "passport": "*",
+    "passport-facebook": "*",
+    "passport-google": "*",
+    "neo4j-js": "*"
   },
   "repository": {
     "type": "git",
