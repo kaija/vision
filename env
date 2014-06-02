@@ -1,8 +1,0 @@
-clouddb_server=127.0.0.1
-clouddb_username=
-clouddb_password=
-clouddb_name=ibeacon
-api_http_port=8080
-api_https_port=443
-facebook_app_id=
-facebook_app_key=

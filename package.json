@@ -14,9 +14,12 @@
   ],
   "dependencies": {
     "dotenv": "*",
+    "MD5": "*",
     "express": "*",
+    "express-session": "*",
     "ejs": "*",
     "body-parser": "*",
+    "cookie-parser": "*",
     "method-override": "*",
     "mysql": "*",
     "winston": "*",
@@ -24,7 +27,8 @@
     "passport": "*",
     "passport-facebook": "*",
     "passport-google": "*",
-    "neo4j-js": "*"
+    "neo4j-js": "*",
+    "nano": "*"
   },
   "repository": {
     "type": "git",
